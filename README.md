@@ -17,3 +17,7 @@ React JS 를 사용하여 Amazon 웹사이트 구현 연습
 ## 추가사항
 * Payment Process 및 Order History 부분은 적용하지 않음
 > Stripe Api를 적용하기 위해 Firebase Blaze 요금제 전환을 하지않음( 추후 변환 후 적용해볼 예정)
+
+## 결과
+![Amazon_main](https://user-images.githubusercontent.com/56250064/124721411-10597380-df44-11eb-907e-e404d63cc633.png)
+![Amazon_Checkout](https://user-images.githubusercontent.com/56250064/124721419-12233700-df44-11eb-8032-0392e335630c.png)
